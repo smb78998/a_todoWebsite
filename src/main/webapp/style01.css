@@ -1,0 +1,22 @@
+html {color: black;
+    background-color: #335aa3;
+    font-family: Sans-Serif}
+
+body { margin: 100px;
+    background-color: #f8f6f6;
+    height: 1000px;
+    width: 800px;
+    text-align: center;
+    margin: auto}
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+
+table, tr, td{
+    border: #595555 1px solid;
+}
