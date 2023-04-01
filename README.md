@@ -13,9 +13,7 @@ Website keep track of todo list stored in SQL table
 Hibernate is use to connect to SQL and local tomcat sever was user to run application.</p>
 <hr>
 
-<h2> Known Issues </h2>
-<p>Currently "Delete Todo" section has no fucntionality</p>
-<hr>
+
 
 <h2> ScreenShots </h2>
 
